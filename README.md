@@ -1,51 +1,17 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## Descrição
+Criação de imagens realistas que nos fazem questionar se o conteúdo é de fato artificial (ou "fake natty").
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## Tecnologias Utilizadas
+MidJourney.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## Processo de Criação
+O conteúdo foi pegado dentre as criações abertas de usuários do MidJourney, sendo reunidos os resultados mais realistas.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## Resultados
+As imagens geradas, souberam imprimir com precisão o comportamento das luzes, sombras, formas e texturas, dando um ar de realidade e naturalidade aos artefatos artificiais.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## Reflexão (Opcional)
+Claramente as inteligências artificiais ainda não está em seu estado final, na sua perfeição. Conseguem replicar com maestria o lado técnico, o "aparente", ou a ilusão da realidade, mas quando algo tende para o lado humano da coisa, é aí que ela se perde: na minúcia e no significado. Trazendo para o lado artístico, as "imperfeições" que as IAs cometem podem ser ainda menos pujantes, haja vista que uma falha técnica na geração da imagem pode ser vista como "interpretação" ou "estilo" originais, conceitos esses atrelados à essência da arte, mas ainda assim, lhes faltam significado. As críticas existem sim, por todo lado, mas elas tendem à subjetividade. Ainda penso que no futuro os aplausos direcionados à alguma arte humana, serão graças a empatia, não a qualidade puramente. E até que ponto a inteligência artificial se aproximará da inteligência humana? Eis a magna dúvida.
