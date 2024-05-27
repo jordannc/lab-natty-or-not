@@ -8,7 +8,7 @@ Criação de imagens realistas que nos fazem questionar se o conteúdo é de fat
 MidJourney.
 
 ## Processo de Criação
-O conteúdo foi pegado dentre as criações abertas de usuários do MidJourney, sendo reunidos os resultados mais realistas.
+O conteúdo foi pegado dentre as criações abertas de usuários do MidJourney, sendo reunidos os resultados mais realistas e interessantes para discussão.
 
 ## Resultados
 As imagens geradas, souberam imprimir com precisão o comportamento das luzes, sombras, formas e texturas, dando um ar de realidade e naturalidade aos artefatos artificiais.
