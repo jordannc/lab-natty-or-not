@@ -1,5 +1,5 @@
 
-# Título do Projeto Extremamente Aesthetic ;)
+# Imagens e Artes Artificiais
 
 ## Descrição
 Criação de imagens realistas que nos fazem questionar se o conteúdo é de fato artificial (ou "fake natty").
